@@ -1,2 +1,1 @@
-In this classification problem we create a model with custom pipelines that predicts the probability of females having diabetes. For this project we had some Class imbalance in the data, so we consider recall score rather than Accuracy Score.
-At last we got a very good Test Data Recall Score = 87.234 % with Random Forest Classifier and ROC_Auc Score = 0.882.
+Dijkstra's Algorithm for finding the Minmum spanning Tree.
