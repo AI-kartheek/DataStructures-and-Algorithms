@@ -1,3 +1,2 @@
-# DataStructures-and-Algorithms
-
-This Repository contains some important Algorithms and their Implementaion in C Programming.
+# DataStructures and Algorithms
+* It contains of datastructures and algorithms implemented in C++.
